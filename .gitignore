@@ -1,3 +1,5 @@
 # .gitignore
 node_modules/
 twilio.js
+config.js
+dialogflow.js
